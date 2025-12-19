@@ -20,3 +20,4 @@ Mês 1: Estrutura, Rotas e Autenticação
 * [ ] Persistência: Salvar o Token/Usuário no localStorage para manter a sessão.
 
 //Instalar no terminal: npm install react-router-dom// (OK)
+Teste da galinha 3
